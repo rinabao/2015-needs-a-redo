@@ -61,6 +61,7 @@ story: story.o \
 	blhtkd.o \
 	wfbc77.o \
 	bjt2p3.o \
+	amd2b7.o \
 
 	$(CC) -o story $^
 
@@ -95,4 +96,6 @@ blhtkd.o: sentences/blhtkd.c
 wfbc77.o: sentences/wfbc77.c
 	$(CC) -c $<
 bjt2p3.o: sentences/bjt2p3.c
+	$(CC) -c $<
+amd2b7.o: sentences/amd2b7.c
 	$(CC) -c $<
