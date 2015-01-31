@@ -63,6 +63,8 @@ story: story.o \
 	bjt2p3.o \
 	amd2b7.o \
 	qltf8.o \
+	rcsc77.o \
+
 
 	$(CC) -o story $^
 
@@ -101,4 +103,6 @@ bjt2p3.o: sentences/bjt2p3.c
 amd2b7.o: sentences/amd2b7.c
 	$(CC) -c $<
 qltf8.o: sentences/qltf8.c
+	$(CC) -c $<
+rcsc77.o: sentences/rcsc77.c
 	$(CC) -c $<
