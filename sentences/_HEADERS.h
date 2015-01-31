@@ -25,3 +25,6 @@ int wfbc77Sentence2();
 
 void bjt2p3_sentence1();
 void bjt2p3_sentence2();
+
+int rcsc77First();
+int rcsc77Second();

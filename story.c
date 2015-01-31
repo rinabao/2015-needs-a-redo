@@ -13,6 +13,7 @@ int main( void )
 // Don't forget to update the header file.
     
 	scottgsSentence1();
+	rcsc77First();
 	tehww4_s1();
 	tehww4_s2();
 
@@ -29,6 +30,7 @@ int main( void )
 	wfbc77Sentence2();
 
 	bjt2p3_sentence1();
+	rcsc77Second();
 	bjt2p3_sentence2();
 	
 	amd2b7_1();
