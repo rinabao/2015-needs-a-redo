@@ -27,6 +27,10 @@ int main( void )
 
 	wfbc77Sentence1();
 	wfbc77Sentence2();
+
+	bjt2p3_sentence1();
+	bjt2p3_sentence2();
+
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
