@@ -12,7 +12,7 @@ int main( void )
 // Add your sentence.
 // Don't forget to update the header file.
     
-
+	scottgsSentence1();
 
 
 // DO NOT ADD AFTER THIS COMMENT
