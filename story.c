@@ -16,6 +16,8 @@ int main( void )
 	tehww4_s1();
 	tehww4_s2();
 
+  jpvc4_sentence1();
+  jpvc4_sentence2();
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

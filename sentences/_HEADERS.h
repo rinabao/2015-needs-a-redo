@@ -7,3 +7,7 @@ int scottgsSentence1();
 
 int tehww4_s1();
 int tehww4_s2();
+
+void jpvc4_sentence1();
+void jpvc4_sentence2();
+
