@@ -16,3 +16,6 @@ int acfr47_Sentence2();
 
 void blhtkd_sentence1();
 void blhtkd_sentence2();
+
+int wfbc77Sentence1();
+int wfbc77Sentence2();

@@ -59,6 +59,7 @@ story: story.o \
 	tehww4.o \
 	jpvc4.o \
 	blhtkd.o \
+	wfbc77.o \
 
 	$(CC) -o story $^
 
@@ -90,7 +91,8 @@ jpvc4.o: sentences/jpvc4.c
 blhtkd.o: sentences/blhtkd.c
 	$(CC) -c $<
 
-
+wfbc77.o: sentences/wfbc77.c
+	$(CC) -c $<
 
 
 
