@@ -30,7 +30,9 @@ int main( void )
 
 	bjt2p3_sentence1();
 	bjt2p3_sentence2();
-
+	
+	amd2b7_1();
+	amd2b7_2();
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
