@@ -21,6 +21,7 @@
 *.dylib
 
 # Executables
+story
 *.exe
 *.out
 *.app
