@@ -13,3 +13,6 @@ void jpvc4_sentence2();
 
 int acfr47_Sentence1();
 int acfr47_Sentence2();
+
+void blhtkd_sentence1();
+void blhtkd_sentence2();

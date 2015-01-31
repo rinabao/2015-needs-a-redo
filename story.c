@@ -19,9 +19,11 @@ int main( void )
   jpvc4_sentence1();
   jpvc4_sentence2();
   
-  acfr47_Sentence1();
-  acfr47_Sentence2();
+//  acfr47_Sentence1();
+//  acfr47_Sentence2();
 
+	blhtkd_sentence1();
+	blhtkd_sentence2();
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
