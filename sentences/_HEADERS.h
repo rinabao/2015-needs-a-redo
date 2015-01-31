@@ -11,3 +11,5 @@ int tehww4_s2();
 void jpvc4_sentence1();
 void jpvc4_sentence2();
 
+int acfr47_Sentence1();
+int acfr47_Sentence2();
