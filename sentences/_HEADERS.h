@@ -4,5 +4,6 @@ int bensSentence_FINAL();
 
 // DECLARE YOUR symbols here, implement them in a standalone C file
 int scottgsSentence1();
-
+void jpvc4_sentence1();
+void jpvc4_sentence2();
 

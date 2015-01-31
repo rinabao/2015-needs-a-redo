@@ -13,7 +13,8 @@ int main( void )
 // Don't forget to update the header file.
     
 	scottgsSentence1();
-
+  jpvc4_sentence1();
+  jpvc4_sentence2();
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
