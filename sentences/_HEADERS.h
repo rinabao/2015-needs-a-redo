@@ -5,4 +5,5 @@ int bensSentence_FINAL();
 // DECLARE YOUR symbols here, implement them in a standalone C file
 int scottgsSentence1();
 
-
+int tehww4_s1();
+int tehww4_s2();

@@ -13,6 +13,8 @@ int main( void )
 // Don't forget to update the header file.
     
 	scottgsSentence1();
+	tehww4_s1();
+	tehww4_s2();
 
 
 // DO NOT ADD AFTER THIS COMMENT

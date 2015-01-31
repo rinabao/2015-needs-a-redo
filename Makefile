@@ -55,7 +55,7 @@ cleanwin:
 
 story: story.o \
 	scottgs.o \
-	bpbkt7.o
+	bpbkt7.o tehww4.o
 	$(CC) -o story $^
 
 #pawprint.o -  where is your .c derived object file
@@ -73,6 +73,8 @@ bpbkt7.o: sentences/bpbkt7.c
 scottgs.o: sentences/scottgs.c
 	$(CC) -c $<
 
+tehww4.o: sentences/tehww4.c
+	$(CC) -c $<
 
 
 
