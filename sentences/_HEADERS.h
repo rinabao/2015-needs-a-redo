@@ -35,3 +35,6 @@ int rcsc77Second();
 
 int dse2pd_1();
 int dse2pd_2();
+
+int kpm8v5sent1();
+int kpm8v5sent2();

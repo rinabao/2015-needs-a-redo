@@ -26,6 +26,8 @@ int main( void )
 	blhtkd_sentence1();
 	blhtkd_sentence2();
 
+	kpm8v5sent1();
+
 	wfbc77Sentence1();
 	wfbc77Sentence2();
 
@@ -33,6 +35,8 @@ int main( void )
 	rcsc77Second();
 	bjt2p3_sentence2();
 	
+	kpm8v5sent2();
+
 	amd2b7_1();
 	amd2b7_2();
     
