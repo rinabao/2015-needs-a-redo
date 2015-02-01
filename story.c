@@ -36,6 +36,9 @@ int main( void )
 	amd2b7_1();
 	amd2b7_2();
     
+	dse2pd_1();
+	dse2pd_2();
+    
     qltf8();
     qltf8_next();
 // DO NOT ADD AFTER THIS COMMENT

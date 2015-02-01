@@ -33,3 +33,5 @@ int qltf8_next();
 int rcsc77First();
 int rcsc77Second();
 
+int dse2pd_1();
+int dse2pd_2();
