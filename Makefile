@@ -115,5 +115,5 @@ kpm8v5.o: sentences/kpm8v5.c
 	$(CC) -c $<
 wangso.o: sentences/wangso.c
 	$(CC) -c $<
-jebd4f.o : sentences/jebd4f.c
+jebd4f.o: sentences/jebd4f.c
 	$(CC) -c $<
