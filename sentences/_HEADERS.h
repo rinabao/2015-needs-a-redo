@@ -44,3 +44,6 @@ int wangso_2();
 
 int jebd4f_Sentence1();
 int jebd4f_Sentence2();
+
+int dc4g2_1();
+int dc4g2_2();
