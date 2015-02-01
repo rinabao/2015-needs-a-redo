@@ -51,6 +51,9 @@ int main( void )
 	
 	jebd4f_Sentence1();
 	jebd4f_Sentence2();
+	
+	dc4g2_1();
+    dc4g2_2();
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
