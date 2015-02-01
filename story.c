@@ -45,6 +45,10 @@ int main( void )
     
     qltf8();
     qltf8_next();
+
+	wangso_1();
+	wangso_2();
+
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

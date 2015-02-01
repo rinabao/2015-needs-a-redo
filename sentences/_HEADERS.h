@@ -38,3 +38,7 @@ int dse2pd_2();
 
 int kpm8v5sent1();
 int kpm8v5sent2();
+
+int wangso_1();
+int wangso_2();
+

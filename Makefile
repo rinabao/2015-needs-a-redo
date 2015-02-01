@@ -66,6 +66,7 @@ story: story.o \
 	rcsc77.o \
 	dse2pd.o \
 	kpm8v5.o \
+	wangso.o \
 
 	$(CC) -o story $^
 
@@ -110,4 +111,6 @@ rcsc77.o: sentences/rcsc77.c
 dse2pd.o: sentences/dse2pd.c
 	$(CC) -c $<
 kpm8v5.o: sentences/kpm8v5.c
+	$(CC) -c $<
+wangso.o: sentences/wangso.c
 	$(CC) -c $<
