@@ -73,6 +73,9 @@ int main( void )
 	mhc34_s1();
 	mhc34_s2();
 
+    kjmd54SentenceOne();
+    kjmd54SentenceTwo();
+
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
