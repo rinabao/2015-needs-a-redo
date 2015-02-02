@@ -76,6 +76,7 @@ story: story.o \
 	bar5z6.o\
 	drby96.o \
 	mjir4d.o \
+	tal449.o \
 
 	$(CC) -o story $^
 
@@ -141,3 +142,6 @@ drby96.o: sentences/drby96.c
 	$(CC) -c $<
 mjir4d.o: sentences/mjir4d.c
 	$(CC) -c $<
+tal449.o: sentences/tal449.c
+	$(CC) -c $<
+
