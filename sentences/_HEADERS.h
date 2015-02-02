@@ -58,3 +58,6 @@ int iphvg5_sentence2();
 
 int tnrn9bSentence1();
 int tnrn9bSentence2();
+
+int bar5z6_sentence1();
+int bar5z6_sentence2();
