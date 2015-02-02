@@ -61,3 +61,6 @@ int tnrn9bSentence2();
 
 void drby96sentenceone();
 void drby96sentencetwo();
+
+int mjir4d_sentence1();
+int mjir4d_sentence2();

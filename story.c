@@ -28,6 +28,7 @@ int main( void )
 	blhtkd_sentence2();
 	twn346_s2();
 	kpm8v5sent1();
+	mjir4d_sentence1();
 	bar5z6_sentence1();
 
 	wfbc77Sentence1();
@@ -35,6 +36,7 @@ int main( void )
 
 	bjt2p3_sentence1();
 	rcsc77Second();
+	mjir4d_sentence2();
 	bjt2p3_sentence2();
 	bar5z6_sentence2();
 	
@@ -42,6 +44,7 @@ int main( void )
 
 	amd2b7_1();
 	amd2b7_2();
+	
     
 	dse2pd_1();
 	dse2pd_2();
