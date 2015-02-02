@@ -8,6 +8,9 @@ int scottgsSentence1();
 int amd2b7_1();
 int amd2b7_2();
 
+int twn346_s1();
+int twn346_s2();
+
 int tehww4_s1();
 int tehww4_s2();
 

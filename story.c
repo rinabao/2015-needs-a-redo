@@ -17,7 +17,7 @@ int main( void )
 	rcsc77First();
 	tehww4_s1();
 	tehww4_s2();
-
+	twn346_s1();
   jpvc4_sentence1();
   jpvc4_sentence2();
   
@@ -26,7 +26,7 @@ int main( void )
 
 	blhtkd_sentence1();
 	blhtkd_sentence2();
-
+	twn346_s2();
 	kpm8v5sent1();
 
 	wfbc77Sentence1();
