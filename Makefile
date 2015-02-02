@@ -69,6 +69,7 @@ story: story.o \
 	wangso.o \
 	jebd4f.o \
 	dc4g2.o \
+	iphvg5.o\
 
 	$(CC) -o story $^
 
@@ -119,4 +120,6 @@ wangso.o: sentences/wangso.c
 jebd4f.o: sentences/jebd4f.c
 	$(CC) -c $<
 dc4g2.o: sentences/dc4g2.c
+	$(CC) -c $<
+iphvg5.o: sentences/iphvg5.c
 	$(CC) -c $<
