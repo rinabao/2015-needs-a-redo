@@ -47,3 +47,5 @@ int jebd4f_Sentence2();
 
 int dc4g2_1();
 int dc4g2_2();
+int iphvg5_sentence1();
+int iphvg5_sentence2();
