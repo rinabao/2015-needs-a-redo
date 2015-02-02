@@ -58,3 +58,6 @@ int iphvg5_sentence2();
 
 int tnrn9bSentence1();
 int tnrn9bSentence2();
+
+void drby96sentenceone();
+void drby96sentencetwo();
