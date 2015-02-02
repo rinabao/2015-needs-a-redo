@@ -70,6 +70,8 @@ int main( void )
 	drby96sentenceone();
 	tnrn9bSentence2();
 	drby96sentencetwo();
+	mhc34_s1();
+	mhc34_s2();
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

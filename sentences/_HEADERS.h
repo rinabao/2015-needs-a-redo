@@ -64,3 +64,6 @@ void drby96sentencetwo();
 
 int mjir4d_sentence1();
 int mjir4d_sentence2();
+
+int mhc34_s1();
+int mhc34_s2();
