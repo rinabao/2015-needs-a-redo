@@ -76,6 +76,7 @@ story: story.o \
 	bar5z6.o\
 	drby96.o \
 	mjir4d.o \
+	tal449.o \
 	mhc34.o \
 	kjmd54.o \
 
@@ -142,6 +143,8 @@ bar5z6.o: sentences/bar5z6.c
 drby96.o: sentences/drby96.c
 	$(CC) -c $<
 mjir4d.o: sentences/mjir4d.c
+	$(CC) -c $<
+tal449.o: sentences/tal449.c
 	$(CC) -c $<
 mhc34.o: sentences/mhc34.c
 	$(CC) -c $<

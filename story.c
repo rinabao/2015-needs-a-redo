@@ -70,6 +70,8 @@ int main( void )
 	drby96sentenceone();
 	tnrn9bSentence2();
 	drby96sentencetwo();
+    tal449_sentence1();
+    tal449_sentence2();
 	mhc34_s1();
 	mhc34_s2();
 
