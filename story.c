@@ -62,7 +62,9 @@ int main( void )
 	iphvg5_sentence2();
 
 	tnrn9bSentence1();
+	drby96sentenceone();
 	tnrn9bSentence2();
+	drby96sentencetwo();
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
