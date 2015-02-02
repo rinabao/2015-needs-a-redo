@@ -67,3 +67,6 @@ int mjir4d_sentence2();
 
 int mhc34_s1();
 int mhc34_s2();
+
+void kjmd54SentenceOne();
+void kjmd54SentenceTwo();
