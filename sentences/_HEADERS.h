@@ -55,3 +55,6 @@ int dc4g2_1();
 int dc4g2_2();
 int iphvg5_sentence1();
 int iphvg5_sentence2();
+
+int tnrn9bSentence1();
+int tnrn9bSentence2();
