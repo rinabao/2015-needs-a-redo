@@ -11,5 +11,5 @@ int iphvg5_sentence2()
 {
 
 	printf("\n Tony had a girlfriend that was called a Globster.\n");
-	return 1
+	return 1;
 }
