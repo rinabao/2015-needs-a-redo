@@ -45,6 +45,9 @@ int kpm8v5sent2();
 int wangso_1();
 int wangso_2();
 
+int aap455_Sentence1();
+int aap455_Sentence2();
+
 int jebd4f_Sentence1();
 int jebd4f_Sentence2();
 

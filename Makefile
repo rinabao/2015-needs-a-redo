@@ -71,6 +71,7 @@ story: story.o \
 	dc4g2.o \
 	twn346.o\
 	iphvg5.o\
+	aap455.o\
 
 	$(CC) -o story $^
 
@@ -125,5 +126,7 @@ dc4g2.o: sentences/dc4g2.c
 iphvg5.o: sentences/iphvg5.c
 	$(CC) -c $<
 twn346.o: sentences/twn346.c
+	$(CC) -c $<
+aap455.o: sentences/aap455.c
 	$(CC) -c $<
 

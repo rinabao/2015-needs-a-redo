@@ -55,6 +55,10 @@ int main( void )
 	
 	dc4g2_1();
     dc4g2_2();
+	
+	aap455_Sentence1();
+	aap455_Sentence2();
+	
 	iphvg5_sentence2();
 
 // DO NOT ADD AFTER THIS COMMENT
