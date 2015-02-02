@@ -13,6 +13,7 @@ int main( void )
 // Don't forget to update the header file.
     
 	scottgsSentence1();
+	iphvg5_sentence1();
 	rcsc77First();
 	tehww4_s1();
 	tehww4_s2();
@@ -54,6 +55,7 @@ int main( void )
 	
 	dc4g2_1();
     dc4g2_2();
+	iphvg5_sentence2();
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
