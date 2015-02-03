@@ -84,11 +84,8 @@ story: story.o \
 	xltz6.o \
     zzff8.o \
 	ps793.o \
-<<<<<<< HEAD
 	tps9tb.o \
-=======
 	ifh2k6.o \
->>>>>>> 349fc6a7bfc8b99a6a43da5827277edc43702f55
 
 	$(CC) -o story $^
 
@@ -171,9 +168,7 @@ zzff8.o: sentences/zzff8.c
 	$(CC) -c $<
 ps793.o: sentences/ps793.c
 	$(CC) -c $<
-<<<<<<< HEAD
 tps9tb.o: sentences/tps9tb.c
-=======
+	$(CC) -c $<
 ifh2k6.o: sentences/ifh2k6.c
->>>>>>> 349fc6a7bfc8b99a6a43da5827277edc43702f55
 	$(CC) -c $<
