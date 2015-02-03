@@ -81,7 +81,7 @@ story: story.o \
 	mhc34.o \
 	kjmd54.o \
 	pld9bc.o \
-
+	zzff8.o 
 	$(CC) -o story $^
 
 
@@ -155,4 +155,6 @@ kjmd54.o: sentences/kjmd54.c
 masyv6.o: sentences/masyv6.c
 	$(CC) -c $<
 pld9bc.o: sentences/pld9bc.c
+	$(CC) -c $<
+zzff8.o: sentences/zzff8.c
 	$(CC) -c $<
