@@ -87,3 +87,6 @@ int zzff8_sentence2();
 
 int ps793_Sentence1();
 int ps793_Sentence2();
+
+int ifh2k6_sentence1();
+int ifh2k6_sentence2();
