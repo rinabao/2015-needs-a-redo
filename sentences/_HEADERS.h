@@ -72,3 +72,6 @@ int mhc34_s2();
 
 void kjmd54SentenceOne();
 void kjmd54SentenceTwo();
+
+int masyv6_s1();
+int masyv6_s2();

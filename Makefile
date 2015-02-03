@@ -73,6 +73,7 @@ story: story.o \
 	iphvg5.o\
 	aap455.o\
 	tnrn9b.o\
+	masyv6.o\
 	bar5z6.o\
 	drby96.o \
 	mjir4d.o \
@@ -149,4 +150,6 @@ tal449.o: sentences/tal449.c
 mhc34.o: sentences/mhc34.c
 	$(CC) -c $<
 kjmd54.o: sentences/kjmd54.c
+	$(CC) -c $<
+masyv6.o: sentences/masyv6.c
 	$(CC) -c $<
