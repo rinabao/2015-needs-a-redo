@@ -81,3 +81,9 @@ int pld9bc_2();
 
 int xltz6_1();
 int xltz6_2();
+
+int zzff8_sentence1();
+int zzff8_sentence2();
+
+int ps793_Sentence1();
+int ps793_Sentence2();
