@@ -88,5 +88,10 @@ int zzff8_sentence2();
 int ps793_Sentence1();
 int ps793_Sentence2();
 
+<<<<<<< HEAD
 int tps9tb_sentences1();
 int tps9tb_sentences2();
+=======
+int ifh2k6_sentence1();
+int ifh2k6_sentence2();
+>>>>>>> 349fc6a7bfc8b99a6a43da5827277edc43702f55
