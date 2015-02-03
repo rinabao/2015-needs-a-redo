@@ -85,11 +85,21 @@ int main( void )
     kjmd54SentenceOne();
     kjmd54SentenceTwo();
 	masyv6_s2();
+
+	
+	xltz6_1();
+	xltz6_2();
+
 	zzff8_sentence1();
 	zzff8_sentence2();
 
+
 	ps793_Sentence1();
 	ps793_Sentence2();
+
+	ifh2k6_sentence1();
+	ifh2k6_sentence2();
+
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
