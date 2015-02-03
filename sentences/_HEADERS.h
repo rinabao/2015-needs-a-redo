@@ -75,3 +75,6 @@ void kjmd54SentenceTwo();
 
 int masyv6_s1();
 int masyv6_s2();
+
+int pld9bc_1();
+int pld9bc_1();
