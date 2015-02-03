@@ -82,9 +82,8 @@ story: story.o \
 	kjmd54.o \
 	pld9bc.o \
 	xltz6.o \
-
-	zzff8.o \
-	ps793.o
+    zzff8.o \
+	ps793.o \
 
 	$(CC) -o story $^
 
