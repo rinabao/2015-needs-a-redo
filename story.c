@@ -83,6 +83,9 @@ int main( void )
 	masyv6_s2();
 	zzff8_sentence1();
 	zzff8_sentence2();
+
+	ps793_Sentence1();
+	ps793_Sentence2();
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
