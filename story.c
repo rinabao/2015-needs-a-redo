@@ -92,6 +92,10 @@ int main( void )
 
 	ps793_Sentence1();
 	ps793_Sentence2();
+
+
+	tps9tb_sentences1();
+	tps9tb_sentences2();
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

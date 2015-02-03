@@ -87,3 +87,6 @@ int zzff8_sentence2();
 
 int ps793_Sentence1();
 int ps793_Sentence2();
+
+int tps9tb_sentences1();
+int tps9tb_sentences2();
