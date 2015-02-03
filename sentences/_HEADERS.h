@@ -29,8 +29,8 @@ int wfbc77Sentence2();
 void bjt2p3_sentence1();
 void bjt2p3_sentence2();
 
-int makgkf_Sen1();
-int makgkf_Sen2();
+//int makgkf_Sen1();
+//int makgkf_Sen2();
 
 int qltf8();
 int qltf8_next();
@@ -96,3 +96,5 @@ int tps9tb_sentences2();
 int ifh2k6_sentence1();
 int ifh2k6_sentence2();
 
+int baotm4_1();
+int baotm4_2();

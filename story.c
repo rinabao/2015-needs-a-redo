@@ -54,7 +54,7 @@ int main( void )
     qltf8();
     qltf8_next();
 	
-	makgkf_Sen1();
+//	makgkf_Sen1();
 
 	wangso_1();
 	wangso_2();
@@ -65,7 +65,7 @@ int main( void )
 	dc4g2_1();
     dc4g2_2();
 	
-	makgkf_Sen2();
+//	makgkf_Sen2();
 
 	aap455_Sentence1();
 	aap455_Sentence2();
@@ -103,7 +103,9 @@ int main( void )
 
 	ifh2k6_sentence1();
 	ifh2k6_sentence2();
-
+	
+	baotm4_1();
+	baotm4_2();
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
