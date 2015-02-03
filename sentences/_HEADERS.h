@@ -78,3 +78,6 @@ int masyv6_s2();
 
 int pld9bc_1();
 int pld9bc_2();
+
+int xltz6_1();
+int xltz6_2();

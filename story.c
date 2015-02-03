@@ -81,6 +81,9 @@ int main( void )
     kjmd54SentenceOne();
     kjmd54SentenceTwo();
 	masyv6_s2();
+	
+	xltz6_1();
+	xltz6_2();
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
