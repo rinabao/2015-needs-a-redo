@@ -87,6 +87,7 @@ story: story.o \
 	xltz6.o \
     zzff8.o \
 	ps793.o \
+	tps9tb.o \
 	ifh2k6.o \
 
 	$(CC) -o story $^
@@ -170,6 +171,8 @@ zzff8.o: sentences/zzff8.c
 ps793.o: sentences/ps793.c
 	$(CC) -c $<
 makgkf.o: sentences/makgkf.c
+	$(CC) -c $<
+tps9tb.o: sentences/tps9tb.c
 	$(CC) -c $<
 ifh2k6.o: sentences/ifh2k6.c
 	$(CC) -c $<

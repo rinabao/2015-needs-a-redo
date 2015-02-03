@@ -97,6 +97,10 @@ int main( void )
 	ps793_Sentence1();
 	ps793_Sentence2();
 
+
+	tps9tb_sentences1();
+	tps9tb_sentences2();
+
 	ifh2k6_sentence1();
 	ifh2k6_sentence2();
 
