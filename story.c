@@ -28,7 +28,9 @@ int main( void )
 	blhtkd_sentence2();
 	twn346_s2();
 	kpm8v5sent1();
+	pld9bc_1();
 	mjir4d_sentence1();
+	pld9bc_2();
 	bar5z6_sentence1();
 
 	wfbc77Sentence1();
