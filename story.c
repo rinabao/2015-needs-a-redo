@@ -134,6 +134,9 @@ int main( void )
 
 	amr6d5_1();
 	amr6d5_2();
+	
+	ldbnr4_sent1();
+	ldbnr4_sent2();
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
