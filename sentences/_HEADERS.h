@@ -111,3 +111,9 @@ int vlb5b_second();
 int ahpb75_sentence1();
 int ahpb75_sentence2();
 
+int xdb57_1();
+int xdb57_2();
+
+int bar5z6_sentence1();
+int bar5z6_sentence2();
+

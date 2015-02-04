@@ -15,6 +15,7 @@ int main( void )
 	scottgsSentence1();
 	iphvg5_sentence1();
 	rcsc77First();
+	xdb57_1();
 	tehww4_s1();
 	tehww4_s2();
 	bgnqp4_s2();
@@ -27,6 +28,7 @@ int main( void )
 
 	blhtkd_sentence1();
 	blhtkd_sentence2();
+	xdb57_2();
 	twn346_s2();
 	kpm8v5sent1();
 	pld9bc_1();
