@@ -134,3 +134,6 @@ int amr6d5_2();
 
 void ldbnr4_sent1();
 void ldbnr4_sent2();
+
+int racn88_s1();
+int racn88_s2();

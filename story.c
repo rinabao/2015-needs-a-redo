@@ -11,7 +11,7 @@ int main( void )
 
 // Add your sentence.
 // Don't forget to update the header file.
-    
+   	racn88_s2(); 
 	scottgsSentence1();
 	iphvg5_sentence1();
 	rcsc77First();
@@ -134,7 +134,7 @@ int main( void )
 
 	amr6d5_1();
 	amr6d5_2();
-	
+	racn88_s1();
 	ldbnr4_sent1();
 	ldbnr4_sent2();
 // DO NOT ADD AFTER THIS COMMENT
