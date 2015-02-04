@@ -98,3 +98,6 @@ int ifh2k6_sentence2();
 
 int baotm4_1();
 int baotm4_2();
+
+int bgnqp4_s1();
+int bgnqp4_s2();

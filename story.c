@@ -17,6 +17,7 @@ int main( void )
 	rcsc77First();
 	tehww4_s1();
 	tehww4_s2();
+	bgnqp4_s2();
 	twn346_s1();
   jpvc4_sentence1();
   jpvc4_sentence2();
@@ -71,7 +72,7 @@ int main( void )
 	aap455_Sentence2();
 	
 	iphvg5_sentence2();
-
+	bgnqp4_s1();
 	tnrn9bSentence1();
 	drby96sentenceone();
 	tnrn9bSentence2();
