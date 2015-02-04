@@ -105,3 +105,6 @@ int baotm4_2();
 int bgnqp4_s1();
 int bgnqp4_s2();
 
+int ahpb75_sentence1();
+int ahpb75_sentence2();
+
