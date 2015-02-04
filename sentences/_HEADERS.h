@@ -107,3 +107,7 @@ int bgnqp4_s2();
 
 int vlb5b();
 int vlb5b_second();
+
+int ahpb75_sentence1();
+int ahpb75_sentence2();
+
