@@ -105,3 +105,5 @@ int baotm4_2();
 int bgnqp4_s1();
 int bgnqp4_s2();
 
+int vlb5b();
+int vlb5b_second();
