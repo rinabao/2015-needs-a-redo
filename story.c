@@ -76,14 +76,16 @@ int main( void )
 	aap455_Sentence2();
 	
 	iphvg5_sentence2();
-<<<<<<< HEAD
+	
+	hrggyf_s1();
+	hrggyf_s2();
 
 	vlb5b();
 	vlb5b_second();
-=======
+
 //	vlb5b();
 //	vlb5b_second();
->>>>>>> sts44b
+
 	bgnqp4_s1();
 	tnrn9bSentence1();
 	drby96sentenceone();

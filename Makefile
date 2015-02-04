@@ -75,6 +75,7 @@ story: story.o \
 	tnrn9b.o\
 	masyv6.o\
 	bar5z6.o\
+	hrggyf.o\
 	drby96.o \
 	mjir4d.o \
 	tal449.o \
@@ -92,13 +93,9 @@ story: story.o \
 	baotm4.o \
 	bgnqp4.o \
 	vlb5b.o \
-<<<<<<< HEAD
 	ahpb75.o \
 	xdb57.o \
-
-=======
 	sts44b.o 
->>>>>>> sts44b
 	$(CC) -o story $^
 
 
@@ -158,6 +155,8 @@ aap455.o: sentences/aap455.c
 tnrn9b.o: sentences/tnrn9b.c
 	$(CC) -c $<
 bar5z6.o: sentences/bar5z6.c
+	$(CC) -c $<
+hrggyf.o: sentences/hrggyf.c
 	$(CC) -c $<
 drby96.o: sentences/drby96.c
 	$(CC) -c $<
