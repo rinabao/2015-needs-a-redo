@@ -131,6 +131,9 @@ int main( void )
 
 	jn9qc_s1();
 	jn9qc_s2();
+
+	amr6d5_1();
+	amr6d5_2();
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

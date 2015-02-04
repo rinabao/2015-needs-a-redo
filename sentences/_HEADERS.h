@@ -128,3 +128,6 @@ int bar5z6_sentence2();
 
 void scg558sentence1();
 void scg558sentence2();
+
+int amr6d5_1();
+int amr6d5_2();
