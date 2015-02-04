@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 int vlb5b() {
@@ -8,4 +9,9 @@ int vlb5b() {
 int vlb5b_second() {
 	printf("If the butter faced girlfirend were to be threatened, Tony would most liekly not care\n");
 	return 1;
+=======
+#include<stdio.h>
+int insertYourFunctionsHere(){
+	return 0;
+>>>>>>> sts44b
 }

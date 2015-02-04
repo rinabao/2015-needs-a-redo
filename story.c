@@ -34,7 +34,7 @@ int main( void )
 	pld9bc_1();
 	mjir4d_sentence1();
 	pld9bc_2();
-	bar5z6_sentence1();
+//	bar5z6_sentence1();
 
 	wfbc77Sentence1();
 	wfbc77Sentence2();
@@ -45,7 +45,7 @@ int main( void )
 	ahpb75_sentence1();
 	ahpb75_sentence2();
 	bjt2p3_sentence2();
-	bar5z6_sentence2();
+//	bar5z6_sentence2();
 	
 	kpm8v5sent2();
 
@@ -68,7 +68,7 @@ int main( void )
 	jebd4f_Sentence2();
 	
 	dc4g2_1();
-    dc4g2_2();
+	dc4g2_2();
 	
 //	makgkf_Sen2();
 
@@ -76,16 +76,21 @@ int main( void )
 	aap455_Sentence2();
 	
 	iphvg5_sentence2();
+<<<<<<< HEAD
 
 	vlb5b();
 	vlb5b_second();
+=======
+//	vlb5b();
+//	vlb5b_second();
+>>>>>>> sts44b
 	bgnqp4_s1();
 	tnrn9bSentence1();
 	drby96sentenceone();
 	tnrn9bSentence2();
 	drby96sentencetwo();
-    tal449_sentence1();
-    tal449_sentence2();
+	tal449_sentence1();
+	tal449_sentence2();
 	mhc34_s1();
 	mhc34_s2();
 
@@ -115,6 +120,8 @@ int main( void )
 	ifh2k6_sentence2();
 	
 	baotm4_1();
+	sts44b_s1();
+	sts44b_s2();
 	baotm4_2();
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
