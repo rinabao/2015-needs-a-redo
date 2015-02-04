@@ -108,6 +108,9 @@ int main( void )
 	zzff8_sentence1();
 	zzff8_sentence2();
 
+	scg558sentence1();
+	scg558sentence2();
+
     djry35_1();
     djry35_2();
 

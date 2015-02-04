@@ -95,7 +95,8 @@ story: story.o \
 	vlb5b.o \
 	ahpb75.o \
 	xdb57.o \
-	sts44b.o 
+	sts44b.o \
+	scg558.o 
 	$(CC) -o story $^
 
 
@@ -198,4 +199,5 @@ ahpb75.o: sentences/ahpb75.c
 	$(CC) -c $<
 xdb57.o: sentences/xdb57.c
 	$(CC) -c $<
-
+scg558.o: sentences/scg558.c
+	$(CC) -c $<

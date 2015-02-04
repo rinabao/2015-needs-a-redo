@@ -123,3 +123,5 @@ int xdb57_2();
 int bar5z6_sentence1();
 int bar5z6_sentence2();
 
+void scg558sentence1();
+void scg558sentence2();
