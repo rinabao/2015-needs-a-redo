@@ -131,3 +131,6 @@ void scg558sentence2();
 
 int amr6d5_1();
 int amr6d5_2();
+
+void ldbnr4_sent1();
+voide ldbnr4_sent2();
