@@ -78,6 +78,8 @@ int main( void )
     kjmd54SentenceOne();
     kjmd54SentenceTwo();
 
+    djry35_1();
+    djry35_2();
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
