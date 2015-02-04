@@ -76,6 +76,9 @@ int main( void )
 	aap455_Sentence2();
 	
 	iphvg5_sentence2();
+	
+	hrggyf_s1();
+	hrggyf_s2();
 
 	vlb5b();
 	vlb5b_second();
