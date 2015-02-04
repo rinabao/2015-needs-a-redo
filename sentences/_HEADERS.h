@@ -29,6 +29,8 @@ int wfbc77Sentence2();
 void bjt2p3_sentence1();
 void bjt2p3_sentence2();
 
+//int makgkf_Sen1();
+//int makgkf_Sen2();
 
 int qltf8();
 int qltf8_next();
@@ -75,3 +77,31 @@ void kjmd54SentenceTwo();
 
 void djry35_1();
 void djry35_2();
+
+int masyv6_s1();
+int masyv6_s2();
+
+int pld9bc_1();
+int pld9bc_2();
+
+int xltz6_1();
+int xltz6_2();
+
+int zzff8_sentence1();
+int zzff8_sentence2();
+
+int ps793_Sentence1();
+int ps793_Sentence2();
+
+int tps9tb_sentences1();
+int tps9tb_sentences2();
+
+int ifh2k6_sentence1();
+int ifh2k6_sentence2();
+
+int baotm4_1();
+int baotm4_2();
+
+int bgnqp4_s1();
+int bgnqp4_s2();
+

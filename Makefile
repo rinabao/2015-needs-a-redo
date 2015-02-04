@@ -73,13 +73,24 @@ story: story.o \
 	iphvg5.o\
 	aap455.o\
 	tnrn9b.o\
+	masyv6.o\
 	bar5z6.o\
 	drby96.o \
 	mjir4d.o \
 	tal449.o \
 	mhc34.o \
 	kjmd54.o \
-	djry35.o 
+	djry35.o \
+	pld9bc.o \
+	zzff8.o \
+	ps793.o\
+	xltz6.o \
+    zzff8.o \
+	ps793.o \
+	tps9tb.o \
+	ifh2k6.o \
+	baotm4.o \
+	bgnqp4.o \
 
 	$(CC) -o story $^
 
@@ -152,4 +163,24 @@ mhc34.o: sentences/mhc34.c
 kjmd54.o: sentences/kjmd54.c
 	$(CC) -c $<
 djry35.o: sentences/djry35.c
+	$(CC) -c $<
+masyv6.o: sentences/masyv6.c
+	$(CC) -c $<
+pld9bc.o: sentences/pld9bc.c
+	$(CC) -c $<
+xltz6.o: sentences/xltz6.c
+	$(CC) -c $<
+zzff8.o: sentences/zzff8.c
+	$(CC) -c $<
+ps793.o: sentences/ps793.c
+	$(CC) -c $<
+makgkf.o: sentences/makgkf.c
+	$(CC) -c $<
+tps9tb.o: sentences/tps9tb.c
+	$(CC) -c $<
+ifh2k6.o: sentences/ifh2k6.c
+	$(CC) -c $<
+baotm4.o: sentences/baotm4.c
+	$(CC) -c $<
+bgnqp4.o: sentences/bgnqp4.c
 	$(CC) -c $<
