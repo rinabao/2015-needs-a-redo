@@ -15,6 +15,8 @@ Before the search party left they made sure to stock up on Mountain Dew.
 Suddenly, the hero came across an ahool!
 Then Jake redid his assignment while watching Ip Man.
 It's a cool movie if you're in the mood.
+It's a Romantic Comedy about a Chuchunya from Moscow, and his adventures in NYC with a group of otherwise normal software engineers.
+This Chuchunya's name was Jeffrey, and he was so consumed by the Beaman monster that he devoted his entire Saturday to finding him.
 Then more and more students, who were really Andean Wolves, began fixing their assignments.
 Everyone joined in and watched the movie.
 British big cats look alike a cat in a big version
@@ -92,6 +94,9 @@ Tony Supermano, in the the afterlife now rules a ragtag gang of Ngoubou
 Tony Supermano and his ragtag gang of Ngoubou were at war with a gang of Owlmen.
 One night, the gang of Owlmen challenged the gang of Ngoubou to a brawl over control of the afterlife.
 The Owlmen and Ngoubou battled for a long time.
+During this long battle a mysterious Man-Bear-Pig appeared.
+Both sides defeated the odd creature with tons of logic, causing its brain to combust.
+They then returned to battle.
 But one day, a male Owlmen and female Ngoubou fell in love Romeo and Juliet style
 It was a forbidden love. 
 Glob the Globster, the father of the female Ngoubou, said he would rather die than is daughter marry an Owlmen!He began thinking of a master plan to break the couple up.Of course! The elves could stop this marrage.
@@ -99,8 +104,16 @@ Avast, Some pirates appeared from outerspace!
 This was very bad news; it was common knowledge that space pirates were the universe's 2nd highest cause of death, behind The Space Kraken.
 But the pirates were not alone.With them, they brought a ferocious pack of jackalopes.Sensings the need of assistance, the Guardians of the galaxy showed up to save the day!
 With help from StarLord, Gamora, Drax, Rocket and Groot, the space pirates were defeated with ease, but the space kraken was still out there.
+<<<<<<< HEAD
  As the kraken slumbered it dreamt of the inevitable encounter with Star Lord. 
 Subconciously plotting its revenge
+=======
+
+He dreamed that they fell in love quickly.they have a happy family. As the kraken slumbered it dreamt of the inevitable encounter with Star Lord. 
+Gambo showed up from the sea.
+Nobody know what he is doing.
+
+>>>>>>> 851e730d933de706e995ec042738aa18157ba046
 The end. 
 
 

@@ -24,8 +24,8 @@ int main( void )
   jpvc4_sentence1();
   jpvc4_sentence2();
   
-//  acfr47_Sentence1();
-//  acfr47_Sentence2();
+  acfr47_Sentence1();
+  acfr47_Sentence2();
 
 	blhtkd_sentence1();
 	blhtkd_sentence2();
@@ -138,6 +138,8 @@ int main( void )
 	jn9qc_s2();
 	
 	amr6d5_1();
+	mabrm9_sent1();
+	mabrm9_sent2();
 	amr6d5_2();
 	racn88_s1();
 	ldbnr4_sent1();
@@ -154,8 +156,18 @@ int main( void )
     mlm6f4_s1();
     mlm6f4_s2();
 
+        rwg58();
+        rwg58_next();
+
 	cjbq4f_first();
+<<<<<<< HEAD
 	bmwr84_2();
+=======
+    
+    ddbmf_1();
+    ddbmf_2();
+
+>>>>>>> 851e730d933de706e995ec042738aa18157ba046
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

@@ -153,8 +153,22 @@ int arhyr8Sentence2();
 int mlm6f4_s1();
 int mlm6f4_s2();
 
+
 void cjbq4f_first();
 void cjbq4f_second();
 
+<<<<<<< HEAD
 void bmwr84();
 void bmwr84_2();
+=======
+int mabrm9_sent1();
+int mabrm9_sent2();
+
+
+int rwg58();
+int rwg58_next();
+int ddbmf_1();
+int ddbmf_2();
+
+
+>>>>>>> 851e730d933de706e995ec042738aa18157ba046
