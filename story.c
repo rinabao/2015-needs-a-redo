@@ -11,6 +11,7 @@ int main( void )
 
 // Add your sentence.
 // Don't forget to update the header file.
+	bmwr84();
    	racn88_s2(); 
 	scottgsSentence1();
 	iphvg5_sentence1();
@@ -154,6 +155,7 @@ int main( void )
     mlm6f4_s2();
 
 	cjbq4f_first();
+	bmwr84_2();
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

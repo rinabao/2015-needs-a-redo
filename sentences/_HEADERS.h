@@ -155,3 +155,6 @@ int mlm6f4_s2();
 
 void cjbq4f_first();
 void cjbq4f_second();
+
+void bmwr84();
+void bmwr84_2();
