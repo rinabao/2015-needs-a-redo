@@ -137,3 +137,6 @@ void ldbnr4_sent2();
 
 int racn88_s1();
 int racn88_s2();
+
+int zdc9pd_1();
+int zdc9pd_2();
