@@ -145,8 +145,15 @@ int main( void )
 	zdc9pd_2();
 	
 	djb8tc_2();
+<<<<<<< HEAD
 	arhyr8Sentence1();
 	arhyr8Sentence2();
+=======
+
+    mlm6f4_s1();
+    mlm6f4_s2();
+
+>>>>>>> 20f42fd34cf9ebf8704df48af0e5f6bca8871341
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
