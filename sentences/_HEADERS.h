@@ -153,5 +153,10 @@ int arhyr8Sentence2();
 int mlm6f4_s1();
 int mlm6f4_s2();
 
+
 void cjbq4f_first();
 void cjbq4f_second();
+
+int mabrm9_sent1();
+int mabrm9_sent2();
+
