@@ -126,15 +126,16 @@ int main( void )
 
 	ifh2k6_sentence1();
 	ifh2k6_sentence2();
-	
+
 	baotm4_1();
 	sts44b_s1();
 	sts44b_s2();
+	cjbq4f_second();
 	baotm4_2();
 
 	jn9qc_s1();
 	jn9qc_s2();
-
+	
 	amr6d5_1();
 	amr6d5_2();
 	racn88_s1();
@@ -151,6 +152,8 @@ int main( void )
 
     mlm6f4_s1();
     mlm6f4_s2();
+
+	cjbq4f_first();
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
