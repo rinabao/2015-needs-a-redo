@@ -148,6 +148,14 @@ int main( void )
 
 	pkbcn6_s1();
 	pkbcn6_s2();
+
+	arhyr8Sentence1();
+	arhyr8Sentence2();
+
+    mlm6f4_s1();
+    mlm6f4_s2();
+
+
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

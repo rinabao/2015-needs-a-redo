@@ -149,3 +149,10 @@ void djb8tc_2();
 
 void pkbcn6_s1();
 void pkbcn6_s2();
+
+int arhyr8Sentence1();
+int arhyr8Sentence2();
+
+int mlm6f4_s1();
+int mlm6f4_s2();
+
