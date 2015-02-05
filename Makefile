@@ -103,7 +103,8 @@ story: story.o \
 	ldbnr4.o\
 	racn88.o \
 	zdc9pd.o \
-	djb8tc.o
+	djb8tc.o \
+	arhyr8.o
 	$(CC) -o story $^
 
 
@@ -221,4 +222,6 @@ racn88.o: sentences/racn88.c
 zdc9pd.o: sentences/zdc9pd.c
 	$(CC) -c $<
 djb8tc.o: sentences/djb8tc.c
+	$(CC) -c $<
+arhyr8.o: sentences/arhyr8.c
 	$(CC) -c $<

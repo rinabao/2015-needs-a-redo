@@ -146,3 +146,6 @@ int zdc9pd_2();
 
 void djb8tc_1();
 void djb8tc_2();
+
+int arhyr8Sentence1();
+int arhyr8Sentence2();
