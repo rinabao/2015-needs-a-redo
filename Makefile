@@ -55,6 +55,7 @@ cleanwin:
 
 story: story.o \
 	scottgs.o \
+	ylt5b.o \
 	bpbkt7.o \
 	tehww4.o \
 	jpvc4.o \
@@ -101,8 +102,7 @@ story: story.o \
 	amr6d5.o \
 	ldbnr4.o\
 	racn88.o \
-	zdc9pd.o
-	ylt5b.o
+	zdc9pd.o 
 	$(CC) -o story $^
 
 
@@ -138,7 +138,7 @@ wfbc77.o: sentences/wfbc77.c
 bjt2p3.o: sentences/bjt2p3.c
 	$(CC) -c $<
 ylt5b.o: sentences/ylt5b.c
-        $(CC) -c $<
+	$(CC) -c $<
 amd2b7.o: sentences/amd2b7.c
 	$(CC) -c $<
 qltf8.o: sentences/qltf8.c
