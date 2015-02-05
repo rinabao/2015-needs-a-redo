@@ -163,14 +163,11 @@ int main( void )
     rwg58_next();
 
 	cjbq4f_first();
-<<<<<<< HEAD
 	bmwr84_2();
-=======
     
     ddbmf_1();
     ddbmf_2();
 
->>>>>>> 851e730d933de706e995ec042738aa18157ba046
 
 
 // DO NOT ADD AFTER THIS COMMENT

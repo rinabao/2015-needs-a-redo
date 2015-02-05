@@ -2,6 +2,7 @@
 
 Once upon a time
 
+
 There was a story narrated by Morgan Freeman, here it is.
 What up my Glip Glops, here's a story about the professor. 
 The mean professor, who is a Beaman Monster, made a class redo a homework exercise
@@ -104,16 +105,13 @@ Avast, Some pirates appeared from outerspace!
 This was very bad news; it was common knowledge that space pirates were the universe's 2nd highest cause of death, behind The Space Kraken.
 Unaware of its' surroundings, the Canvey Island Monster broke out into a dance.Unable to remove his gaze from the creature the Honey Island Swamp Monster joined into the dancing!But the pirates were not alone.With them, they brought a ferocious pack of jackalopes.Sensings the need of assistance, the Guardians of the galaxy showed up to save the day!
 With help from StarLord, Gamora, Drax, Rocket and Groot, the space pirates were defeated with ease, but the space kraken was still out there.
-<<<<<<< HEAD
- As the kraken slumbered it dreamt of the inevitable encounter with Star Lord. 
-Subconciously plotting its revenge
-=======
 
 He dreamed that they fell in love quickly.they have a happy family. As the kraken slumbered it dreamt of the inevitable encounter with Star Lord. 
+Subconciously plotting its revenge
+
 Gambo showed up from the sea.
 Nobody know what he is doing.
 
->>>>>>> 851e730d933de706e995ec042738aa18157ba046
 The end. 
 
 
