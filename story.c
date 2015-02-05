@@ -137,6 +137,8 @@ int main( void )
 	racn88_s1();
 	ldbnr4_sent1();
 	ldbnr4_sent2();
+	epkqmb_sentence1();
+	epkqmb_sentence2();
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();
