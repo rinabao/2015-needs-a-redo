@@ -106,7 +106,12 @@ story: story.o \
 	djb8tc.o \
 	pkbcn6.o \
 	arhyr8.o \
-	mlm6f4.o
+	mlm6f4.o \
+	cjbq4f.o \
+	mabrm9.o \
+	acfr47.o \
+	rwg58.o \
+	ddbmf.o
 
 	$(CC) -o story $^
 
@@ -132,8 +137,8 @@ tehww4.o: sentences/tehww4.c
 jpvc4.o: sentences/jpvc4.c
 	$(CC) -c $<
 	
-#acfr47.o: sentences/acfr47.c
-#	$(CC) -c $<
+acfr47.o: sentences/acfr47.c
+	$(CC) -c $<
 	
 blhtkd.o: sentences/blhtkd.c
 	$(CC) -c $<
@@ -231,4 +236,12 @@ pkbcn6.o: sentences/pkbcn6.c
 arhyr8.o: sentences/arhyr8.c
 	$(CC) -c $<
 mlm6f4.o: sentences/mlm6f4.c
+	$(CC) -c $<
+cjbq4f.o: sentences/cjbq4f.c
+	$(CC) -c $<
+mabrm9.o: sentences/mabrm9.c
+	$(CC) -c $<
+rwg58.o: sentences/rwg58.c
+	$(CC) -c $<
+ddbmf.o: sentences/ddbmf.c
 	$(CC) -c $<
