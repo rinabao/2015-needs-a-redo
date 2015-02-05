@@ -8,6 +8,6 @@ int zdc9pd_1() {
 }
 
 int zdc9pd_2() {
-	printf("\nAvast, Some pirates appeared from outspace!");
+	printf("\nAvast, Some pirates appeared from outerspace!");
 	return 0;
 }
