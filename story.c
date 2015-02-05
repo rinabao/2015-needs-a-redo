@@ -136,6 +136,8 @@ int main( void )
 	jn9qc_s2();
 
 	amr6d5_1();
+	mabrm9_sent1();
+	mabrm9_sent2();
 	amr6d5_2();
 	racn88_s1();
 	ldbnr4_sent1();
