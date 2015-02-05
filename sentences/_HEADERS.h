@@ -147,11 +147,8 @@ int zdc9pd_2();
 void djb8tc_1();
 void djb8tc_2();
 
-<<<<<<< HEAD
 int arhyr8Sentence1();
 int arhyr8Sentence2();
-=======
+
 int mlm6f4_s1();
 int mlm6f4_s2();
-
->>>>>>> 20f42fd34cf9ebf8704df48af0e5f6bca8871341

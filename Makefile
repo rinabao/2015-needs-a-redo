@@ -103,13 +103,10 @@ story: story.o \
 	ldbnr4.o\
 	racn88.o \
 	zdc9pd.o \
-<<<<<<< HEAD
 	djb8tc.o \
-	arhyr8.o
-=======
-	djb8tc.o\
+	arhyr8.o \
 	mlm6f4.o
->>>>>>> 20f42fd34cf9ebf8704df48af0e5f6bca8871341
+
 	$(CC) -o story $^
 
 
@@ -228,10 +225,7 @@ zdc9pd.o: sentences/zdc9pd.c
 	$(CC) -c $<
 djb8tc.o: sentences/djb8tc.c
 	$(CC) -c $<
-<<<<<<< HEAD
 arhyr8.o: sentences/arhyr8.c
 	$(CC) -c $<
-=======
 mlm6f4.o: sentences/mlm6f4.c
 	$(CC) -c $<
->>>>>>> 20f42fd34cf9ebf8704df48af0e5f6bca8871341
