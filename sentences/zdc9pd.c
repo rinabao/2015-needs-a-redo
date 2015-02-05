@@ -8,6 +8,6 @@ int zdc9pd_1() {
 }
 
 int zdc9pd_2() {
-	printf("Having a plan to stop the marriage, He was now free to think on other things.");
+	printf("\nAvast, Some pirates appeared from outspace!");
 	return 0;
 }
