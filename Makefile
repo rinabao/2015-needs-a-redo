@@ -108,6 +108,7 @@ story: story.o \
 	mlm6f4.o \
 	cjbq4f.o \
 	mabrm9.o \
+	acfr47.o \
 	ddbmf.o
 
 	$(CC) -o story $^
@@ -134,8 +135,8 @@ tehww4.o: sentences/tehww4.c
 jpvc4.o: sentences/jpvc4.c
 	$(CC) -c $<
 	
-#acfr47.o: sentences/acfr47.c
-#	$(CC) -c $<
+acfr47.o: sentences/acfr47.c
+	$(CC) -c $<
 	
 blhtkd.o: sentences/blhtkd.c
 	$(CC) -c $<
