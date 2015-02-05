@@ -101,7 +101,7 @@ story: story.o \
 	amr6d5.o \
 	ldbnr4.o\
 	racn88.o \
-	zdc9pd.o \
+	zdc9pd.o
 	$(CC) -o story $^
 
 
