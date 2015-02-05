@@ -147,12 +147,14 @@ int zdc9pd_2();
 void djb8tc_1();
 void djb8tc_2();
 
+int pkbcn6_s1();
+int pkbcn6_s2();
+
 int arhyr8Sentence1();
 int arhyr8Sentence2();
 
 int mlm6f4_s1();
 int mlm6f4_s2();
-
 
 void cjbq4f_first();
 void cjbq4f_second();
@@ -164,11 +166,14 @@ void bmwr84_2();
 int mabrm9_sent1();
 int mabrm9_sent2();
 
-
 int rwg58();
 int rwg58_next();
 int ddbmf_1();
 int ddbmf_2();
 
 
+<<<<<<< HEAD
 >>>>>>> 851e730d933de706e995ec042738aa18157ba046
+=======
+
+>>>>>>> 6e1cb84fe25c9067e8dcab806c5cefd95946ab1d

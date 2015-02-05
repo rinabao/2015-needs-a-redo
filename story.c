@@ -150,14 +150,17 @@ int main( void )
 	
 	djb8tc_2();
 
+	pkbcn6_s1();
+	pkbcn6_s2();
+
 	arhyr8Sentence1();
 	arhyr8Sentence2();
 
     mlm6f4_s1();
     mlm6f4_s2();
 
-        rwg58();
-        rwg58_next();
+    rwg58();
+    rwg58_next();
 
 	cjbq4f_first();
 <<<<<<< HEAD
@@ -168,6 +171,7 @@ int main( void )
     ddbmf_2();
 
 >>>>>>> 851e730d933de706e995ec042738aa18157ba046
+
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
