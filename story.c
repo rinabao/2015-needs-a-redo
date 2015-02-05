@@ -155,6 +155,9 @@ int main( void )
     mlm6f4_s1();
     mlm6f4_s2();
 
+        rwg58();
+        rwg58_next();
+
 	cjbq4f_first();
 
 // DO NOT ADD AFTER THIS COMMENT

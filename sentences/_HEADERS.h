@@ -160,3 +160,5 @@ void cjbq4f_second();
 int mabrm9_sent1();
 int mabrm9_sent2();
 
+int rwg58();
+int rwg58_next();
