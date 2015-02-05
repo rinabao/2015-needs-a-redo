@@ -146,3 +146,6 @@ int zdc9pd_2();
 
 void djb8tc_1();
 void djb8tc_2();
+
+void pkbcn6_s1();
+void pkbcn6_s2();
