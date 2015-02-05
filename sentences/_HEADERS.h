@@ -11,6 +11,9 @@ int amd2b7_2();
 int twn346_s1();
 int twn346_s2();
 
+int ylt5b_sentence1();
+int ylt5b_sentence2();
+
 int tehww4_s1();
 int tehww4_s2();
 
