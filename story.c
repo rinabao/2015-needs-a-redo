@@ -167,6 +167,8 @@ int main( void )
     
     ddbmf_1();
     ddbmf_2();
+    xcqrf1();
+    xcqrf2();
 
 
 

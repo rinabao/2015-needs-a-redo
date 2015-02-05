@@ -112,7 +112,8 @@ story: story.o \
 	mabrm9.o \
 	acfr47.o \
 	rwg58.o \
-	ddbmf.o
+	ddbmf.o \
+	xcqrf.o 
 
 	$(CC) -o story $^
 
@@ -248,6 +249,8 @@ mabrm9.o: sentences/mabrm9.c
 rwg58.o: sentences/rwg58.c
 	$(CC) -c $<
 ddbmf.o: sentences/ddbmf.c
+	$(CC) -c $<
+xcqrf.o: sentences/xcqrf.c
 	$(CC) -c $<
 
 

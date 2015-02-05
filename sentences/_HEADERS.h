@@ -168,3 +168,5 @@ int ddbmf_1();
 int ddbmf_2();
 void bmwr84();
 void bmwr84_2();
+int xcqrf1();
+int xcqrf2();
