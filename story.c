@@ -159,6 +159,10 @@ int main( void )
         rwg58_next();
 
 	cjbq4f_first();
+    
+    ddbmf_1();
+    ddbmf_2();
+
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
