@@ -40,6 +40,7 @@ int main( void )
 
 	wfbc77Sentence1();
 	wfbc77Sentence2();
+	djb8tc_1();
 
 	bjt2p3_sentence1();
 	rcsc77Second();
@@ -142,6 +143,8 @@ int main( void )
 
 	zdc9pd_1();
 	zdc9pd_2();
+	
+	djb8tc_2();
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

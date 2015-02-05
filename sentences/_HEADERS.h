@@ -143,3 +143,6 @@ int racn88_s2();
 
 int zdc9pd_1();
 int zdc9pd_2();
+
+void djb8tc_1();
+void djb8tc_2();
