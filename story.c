@@ -169,6 +169,8 @@ int main( void )
     ddbmf_2();
     xcqrf1();
     xcqrf2();
+	rmixv8_sentence1();
+	rmixv8_sentence2();
 
 
 
