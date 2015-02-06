@@ -4,13 +4,13 @@
 // Function to include & executeA
 int apcvzbSentence1()
 {
-	printf("\nINSERT SENTENCE ONE\n");
+	printf(" IN THE FACE!\n");
       	return 1;
 }
 
 int apcvzbSentence2()
 {
-	printf("\nINSERT SENTENCE TWO \n");
+	printf("You shouldn't let your puppy play around cars. ");
 	return 1;
 }
 

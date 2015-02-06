@@ -55,6 +55,7 @@ cleanwin:
 
 story: story.o \
 	scottgs.o \
+	apcvzb.o \
 	ylt5b.o \
 	bpbkt7.o \
 	tehww4.o \
@@ -113,7 +114,6 @@ story: story.o \
 	acfr47.o \
 	rwg58.o \
 	ddbmf.o \
-	makgkf.o \
 	rmixv8.o \
 	xcqrf.o 
 
@@ -136,6 +136,9 @@ scottgs.o: sentences/scottgs.c
 	$(CC) -c $<
 
 tehww4.o: sentences/tehww4.c
+	$(CC) -c $<
+
+apcvzb.o: sentences/apcvzb.c
 	$(CC) -c $<
 
 jpvc4.o: sentences/jpvc4.c
@@ -202,8 +205,6 @@ xltz6.o: sentences/xltz6.c
 zzff8.o: sentences/zzff8.c
 	$(CC) -c $<
 ps793.o: sentences/ps793.c
-	$(CC) -c $<
-makgkf.o: sentences/makgkf.c
 	$(CC) -c $<
 tps9tb.o: sentences/tps9tb.c
 	$(CC) -c $<
