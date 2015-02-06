@@ -11,6 +11,7 @@ int main( void )
 
 // Add your sentence.
 // Don't forget to update the header file.
+	bmwr84();
    	racn88_s2(); 
 	scottgsSentence1();
 	iphvg5_sentence1();
@@ -23,8 +24,8 @@ int main( void )
   jpvc4_sentence1();
   jpvc4_sentence2();
   
-//  acfr47_Sentence1();
-//  acfr47_Sentence2();
+  acfr47_Sentence1();
+  acfr47_Sentence2();
 
 	blhtkd_sentence1();
 	blhtkd_sentence2();
@@ -62,7 +63,7 @@ int main( void )
     qltf8();
     qltf8_next();
 	
-//	makgkf_Sen1();
+	makgkf_Sen1();
 
 	wangso_1();
 	wangso_2();
@@ -73,7 +74,7 @@ int main( void )
 	dc4g2_1();
 	dc4g2_2();
 	
-//	makgkf_Sen2();
+	makgkf_Sen2();
 
 	aap455_Sentence1();
 	aap455_Sentence2();
@@ -149,13 +150,29 @@ int main( void )
 	
 	djb8tc_2();
 
+	pkbcn6_s1();
+	pkbcn6_s2();
+
 	arhyr8Sentence1();
 	arhyr8Sentence2();
 
     mlm6f4_s1();
     mlm6f4_s2();
 
+    rwg58();
+    rwg58_next();
+
 	cjbq4f_first();
+	bmwr84_2();
+    
+    ddbmf_1();
+    ddbmf_2();
+    xcqrf1();
+    xcqrf2();
+	rmixv8_sentence1();
+	rmixv8_sentence2();
+
+
 
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.

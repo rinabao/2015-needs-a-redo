@@ -104,10 +104,18 @@ story: story.o \
 	racn88.o \
 	zdc9pd.o \
 	djb8tc.o \
+	pkbcn6.o \
 	arhyr8.o \
 	mlm6f4.o \
 	cjbq4f.o \
-	mabrm9.o 
+	bmwr84.o \
+	mabrm9.o \
+	acfr47.o \
+	rwg58.o \
+	ddbmf.o \
+	makgkf.o \
+	rmixv8.o \
+	xcqrf.o 
 
 	$(CC) -o story $^
 
@@ -133,8 +141,8 @@ tehww4.o: sentences/tehww4.c
 jpvc4.o: sentences/jpvc4.c
 	$(CC) -c $<
 	
-#acfr47.o: sentences/acfr47.c
-#	$(CC) -c $<
+acfr47.o: sentences/acfr47.c
+	$(CC) -c $<
 	
 blhtkd.o: sentences/blhtkd.c
 	$(CC) -c $<
@@ -227,11 +235,28 @@ zdc9pd.o: sentences/zdc9pd.c
 	$(CC) -c $<
 djb8tc.o: sentences/djb8tc.c
 	$(CC) -c $<
+pkbcn6.o: sentences/pkbcn6.c
+	$(CC) -c $<
 arhyr8.o: sentences/arhyr8.c
 	$(CC) -c $<
 mlm6f4.o: sentences/mlm6f4.c
 	$(CC) -c $<
 cjbq4f.o: sentences/cjbq4f.c
 	$(CC) -c $<
+bmwr84.o: sentences/bmwr84.c
+	$(CC) -c $<
+
 mabrm9.o: sentences/mabrm9.c
 	$(CC) -c $<
+rwg58.o: sentences/rwg58.c
+	$(CC) -c $<
+ddbmf.o: sentences/ddbmf.c
+	$(CC) -c $<
+xcqrf.o: sentences/xcqrf.c
+	$(CC) -c $<
+rmixv8.o: sentences/rmixv8.c
+	$(CC) -c $<
+
+
+
+
