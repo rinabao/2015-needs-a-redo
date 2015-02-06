@@ -5,6 +5,9 @@ int bensSentence_FINAL();
 // DECLARE YOUR symbols here, implement them in a standalone C file
 int scottgsSentence1();
 
+int apcvzbSentence1();
+int apcvzbSentence2();
+
 int amd2b7_1();
 int amd2b7_2();
 
@@ -35,8 +38,8 @@ int wfbc77Sentence2();
 void bjt2p3_sentence1();
 void bjt2p3_sentence2();
 
-//int makgkf_Sen1();
-//int makgkf_Sen2();
+int makgkf_Sen1();
+int makgkf_Sen2();
 
 int qltf8();
 int qltf8_next();
@@ -147,6 +150,9 @@ int zdc9pd_2();
 void djb8tc_1();
 void djb8tc_2();
 
+int pkbcn6_s1();
+int pkbcn6_s2();
+
 int arhyr8Sentence1();
 int arhyr8Sentence2();
 
@@ -155,3 +161,24 @@ int mlm6f4_s2();
 
 int mcs526_sentence1();
 int mcs526_sentence2();
+
+void cjbq4f_first();
+void cjbq4f_second();
+
+int mabrm9_sent1();
+int mabrm9_sent2();
+
+int rwg58();
+int rwg58_next();
+int ddbmf_1();
+int ddbmf_2();
+void bmwr84();
+void bmwr84_2();
+int xcqrf1();
+int xcqrf2();
+
+int rmixv8_sentence1();
+int rmixv8_sentence2();
+
+int ska6f8_Sentence1();
+int ska6f8_Sentence2();

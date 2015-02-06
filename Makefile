@@ -55,6 +55,7 @@ cleanwin:
 
 story: story.o \
 	scottgs.o \
+	apcvzb.o \
 	ylt5b.o \
 	bpbkt7.o \
 	tehww4.o \
@@ -104,9 +105,20 @@ story: story.o \
 	racn88.o \
 	zdc9pd.o \
 	djb8tc.o \
+	pkbcn6.o \
 	arhyr8.o \
 	mlm6f4.o \
 	mcs526.o \
+	cjbq4f.o \
+	bmwr84.o \
+	mabrm9.o \
+	acfr47.o \
+	rwg58.o \
+	ddbmf.o \
+	ska6f8.o \
+	rmixv8.o \
+	makgkf.o \
+	xcqrf.o 
 
 	$(CC) -o story $^
 
@@ -129,11 +141,14 @@ scottgs.o: sentences/scottgs.c
 tehww4.o: sentences/tehww4.c
 	$(CC) -c $<
 
+apcvzb.o: sentences/apcvzb.c
+	$(CC) -c $<
+
 jpvc4.o: sentences/jpvc4.c
 	$(CC) -c $<
 	
-#acfr47.o: sentences/acfr47.c
-#	$(CC) -c $<
+acfr47.o: sentences/acfr47.c
+	$(CC) -c $<
 	
 blhtkd.o: sentences/blhtkd.c
 	$(CC) -c $<
@@ -194,8 +209,6 @@ zzff8.o: sentences/zzff8.c
 	$(CC) -c $<
 ps793.o: sentences/ps793.c
 	$(CC) -c $<
-makgkf.o: sentences/makgkf.c
-	$(CC) -c $<
 tps9tb.o: sentences/tps9tb.c
 	$(CC) -c $<
 ifh2k6.o: sentences/ifh2k6.c
@@ -226,9 +239,35 @@ zdc9pd.o: sentences/zdc9pd.c
 	$(CC) -c $<
 djb8tc.o: sentences/djb8tc.c
 	$(CC) -c $<
+pkbcn6.o: sentences/pkbcn6.c
+	$(CC) -c $<
 arhyr8.o: sentences/arhyr8.c
 	$(CC) -c $<
 mlm6f4.o: sentences/mlm6f4.c
 	$(CC) -c $<
+<<<<<<< HEAD
 mcs526.o: sentences/mcs526.c
         $(CC) -c $<
+=======
+cjbq4f.o: sentences/cjbq4f.c
+	$(CC) -c $<
+ska6f8.o: sentences/ska6f8.c
+	$(CC) -c $<
+bmwr84.o: sentences/bmwr84.c
+	$(CC) -c $<
+
+mabrm9.o: sentences/mabrm9.c
+	$(CC) -c $<
+rwg58.o: sentences/rwg58.c
+	$(CC) -c $<
+ddbmf.o: sentences/ddbmf.c
+	$(CC) -c $<
+xcqrf.o: sentences/xcqrf.c
+	$(CC) -c $<
+rmixv8.o: sentences/rmixv8.c
+	$(CC) -c $<
+makgkf.o: sentences/makgkf.c
+	$(CC) -c $<
+
+
+>>>>>>> 0fe934d98d44ef73d449f276557cecb1a28591be
