@@ -148,6 +148,7 @@ int main( void )
 	ldbnr4_sent2();
 
 	zdc9pd_1();
+	skhhdcsent1();
 	zdc9pd_2();
 	
 	djb8tc_2();
@@ -176,6 +177,7 @@ int main( void )
     xcqrf1();
     xcqrf2();
 	zarq6c_1();
+	skhhdcsent2();
 	zarq6c_2();
 	rmixv8_sentence1();
 	rmixv8_sentence2();

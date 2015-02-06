@@ -73,6 +73,9 @@ int tnrn9bSentence2();
 int hrggyf_s1();
 int hrggyf_s2();
 
+void skhhdcsent1();
+void skhhdcsent2();
+
 void drby96sentenceone();
 void drby96sentencetwo();
 

@@ -118,6 +118,7 @@ story: story.o \
 	rwg58.o \
 	ddbmf.o \
 	ska6f8.o \
+	skhhdc.o \
 	rmixv8.o \
 	makgkf.o \
 	xcqrf.o \
@@ -268,6 +269,8 @@ rwg58.o: sentences/rwg58.c
 ddbmf.o: sentences/ddbmf.c
 	$(CC) -c $<
 xcqrf.o: sentences/xcqrf.c
+	$(CC) -c $<
+skhhdc.o: sentences/skhhdc.c
 	$(CC) -c $<
 rmixv8.o: sentences/rmixv8.c
 	$(CC) -c $<
