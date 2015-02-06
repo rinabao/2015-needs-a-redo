@@ -114,6 +114,7 @@ story: story.o \
 	acfr47.o \
 	rwg58.o \
 	ddbmf.o \
+	ska6f8.o \
 	rmixv8.o \
 	makgkf.o \
 	xcqrf.o 
@@ -244,6 +245,8 @@ arhyr8.o: sentences/arhyr8.c
 mlm6f4.o: sentences/mlm6f4.c
 	$(CC) -c $<
 cjbq4f.o: sentences/cjbq4f.c
+	$(CC) -c $<
+ska6f8.o: sentences/ska6f8.c
 	$(CC) -c $<
 bmwr84.o: sentences/bmwr84.c
 	$(CC) -c $<

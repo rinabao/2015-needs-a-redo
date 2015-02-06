@@ -176,3 +176,6 @@ int xcqrf2();
 
 int rmixv8_sentence1();
 int rmixv8_sentence2();
+
+int ska6f8_Sentence1();
+int ska6f8_Sentence2();
