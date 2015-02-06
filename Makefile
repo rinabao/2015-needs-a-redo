@@ -123,7 +123,8 @@ story: story.o \
 	makgkf.o \
 	xcqrf.o \
 	dpvx8.o \
-	eagcm8.o 
+	eagcm8.o \
+	mmhkwc.o  
 	$(CC) -o story $^
 
 
@@ -281,4 +282,6 @@ zarq6c.o: sentences/zarq6c.c
 dpvx8.o: sentences/dpvx8.c
 	$(CC) -c $<
 eagcm8.o: sentences/eagcm8.c
+	$(CC) -c $<
+mmhkwc.o: sentences/mmhkwc.c
 	$(CC) -c $<
