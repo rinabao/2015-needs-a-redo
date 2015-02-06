@@ -17,7 +17,7 @@
 
 # -----------------------------------------------
 # Flag to replace gcc,  $(CC) = gcc
-CC= gcc
+CC=gcc
 # -----------------------------------------------
 # CLEAN definition - git rid of compiled stuff
 CLEAN= rm -rf *.o story
@@ -123,7 +123,7 @@ story: story.o \
 	makgkf.o \
 	xcqrf.o \
 	dpvx8.o \
-
+	eagcm8.o 
 	$(CC) -o story $^
 
 
@@ -279,4 +279,6 @@ makgkf.o: sentences/makgkf.c
 zarq6c.o: sentences/zarq6c.c
 	$(CC) -c $<
 dpvx8.o: sentences/dpvx8.c
+	$(CC) -c $<
+eagcm8.o: sentences/eagcm8.c
 	$(CC) -c $<

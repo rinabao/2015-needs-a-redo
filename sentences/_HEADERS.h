@@ -195,3 +195,6 @@ void dpvx8Second();
 int zarq6c_1();
 int zarq6c_2();
 
+int eagcm8_sentence1();
+int eagcm8_sentence2();
+

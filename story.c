@@ -188,6 +188,9 @@ int main( void )
     ska6f8_Sentence1();
     ska6f8_Sentence2();
 
+    eagcm8_sentence1();
+    eagcm8_sentence2();
+
 
 
 // DO NOT ADD AFTER THIS COMMENT
