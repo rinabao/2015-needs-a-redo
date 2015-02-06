@@ -182,3 +182,6 @@ int rmixv8_sentence2();
 
 int ska6f8_Sentence1();
 int ska6f8_Sentence2();
+
+void dpvx8First();
+void dpvx8Second();

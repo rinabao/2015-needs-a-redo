@@ -121,7 +121,7 @@ int main( void )
 	ps793_Sentence1();
 	ps793_Sentence2();
 
-
+        dpvx8Second();
 	tps9tb_sentences1();
 	tps9tb_sentences2();
 
@@ -175,8 +175,9 @@ int main( void )
     xcqrf2();
 	rmixv8_sentence1();
 	rmixv8_sentence2();
-	apcvzbSentence1();
-	apcvzbSentence2();
+        apcvzbSentence1();
+        dpvx8First();
+        apcvzbSentence2();
     
     ska6f8_Sentence1();
     ska6f8_Sentence2();
