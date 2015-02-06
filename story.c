@@ -173,6 +173,9 @@ int main( void )
 	rmixv8_sentence2();
 	apcvzbSentence1();
 	apcvzbSentence2();
+    
+    ska6f8_Sentence1();
+    ska6f8_Sentence2();
 
 
 // DO NOT ADD AFTER THIS COMMENT

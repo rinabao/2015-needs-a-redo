@@ -1,12 +1,12 @@
 #include <stdio.h>
 
-	int aap455_Sentence1(){
-		printf("Tony had once saved him from a rabid Moa.\n");
+	int ska6f8_Sentence1(){
+		printf("\n Chupacabra is a weird animal.\n");
 		return 1;
 	};
 
-	int aap455_Sentence2(){
-		printf("The Moa believed the man-eating tree to have been a snack.\n");
+	int ska6f8_Sentence2(){
+		printf("\n father google and his knowledgeable son wikipedia suggest that Chupacabra animal from Puerto Rico originally.\n");
 		return 1;
 	};
 
