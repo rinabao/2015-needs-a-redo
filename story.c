@@ -24,6 +24,8 @@ int main( void )
 //  acfr47_Sentence1();
 //  acfr47_Sentence2();
 
+  	aapcnc1();
+	aapcnc2();
 	blhtkd_sentence1();
 	blhtkd_sentence2();
 	twn346_s2();
@@ -54,7 +56,7 @@ int main( void )
     qltf8();
     qltf8_next();
 	
-	makgkf_Sen1();
+	//makgkf_Sen1();
 
 	wangso_1();
 	wangso_2();
@@ -65,7 +67,7 @@ int main( void )
 	dc4g2_1();
     dc4g2_2();
 	
-	makgkf_Sen2();
+	//makgkf_Sen2();
 
 	aap455_Sentence1();
 	aap455_Sentence2();

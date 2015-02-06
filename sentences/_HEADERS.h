@@ -96,3 +96,6 @@ int tps9tb_sentences2();
 int ifh2k6_sentence1();
 int ifh2k6_sentence2();
 
+void aapcnc1();
+void aapcnc2();
+
