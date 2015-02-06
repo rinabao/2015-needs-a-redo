@@ -175,6 +175,8 @@ int main( void )
     ddbmf_2();
     xcqrf1();
     xcqrf2();
+	zarq6c_1();
+	zarq6c_2();
 	rmixv8_sentence1();
 	rmixv8_sentence2();
         apcvzbSentence1();

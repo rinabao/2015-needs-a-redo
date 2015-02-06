@@ -111,11 +111,9 @@ int tps9tb_sentences2();
 int ifh2k6_sentence1();
 int ifh2k6_sentence2();
 
-<<<<<<< HEAD
 void aapcnc1();
 void aapcnc2();
 
-=======
 int baotm4_1();
 int baotm4_2();
 
@@ -190,4 +188,7 @@ int ska6f8_Sentence2();
 
 void dpvx8First();
 void dpvx8Second();
->>>>>>> 94728118362ee28eca61e7afddf646e6b548384e
+
+int zarq6c_1();
+int zarq6c_2();
+

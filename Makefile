@@ -71,30 +71,29 @@ story: story.o \
 	wangso.o \
 	jebd4f.o \
 	dc4g2.o \
-	twn346.o\
-	iphvg5.o\
-	aap455.o\
-	tnrn9b.o\
-	masyv6.o\
-	bar5z6.o\
-	hrggyf.o\
+	twn346.o \
+	iphvg5.o \
+	aap455.o \
+	tnrn9b.o \
+	masyv6.o \
+	bar5z6.o \
+	hrggyf.o \
 	drby96.o \
 	mjir4d.o \
 	tal449.o \
 	mhc34.o \
 	kjmd54.o \
 	djry35.o \
+	zarq6c.o \
 	pld9bc.o \
 	zzff8.o \
-	ps793.o\
+	ps793.o \
 	xltz6.o \
 	zzff8.o \
 	ps793.o \
 	tps9tb.o \
 	ifh2k6.o \
-<<<<<<< HEAD
 	aapcnc.o \
-=======
 	baotm4.o \
 	bgnqp4.o \
 	vlb5b.o \
@@ -104,7 +103,7 @@ story: story.o \
 	jn9qc.o \
 	scg558.o \
 	amr6d5.o \
-	ldbnr4.o\
+	ldbnr4.o \
 	racn88.o \
 	zdc9pd.o \
 	djb8tc.o \
@@ -122,8 +121,7 @@ story: story.o \
 	rmixv8.o \
 	makgkf.o \
 	xcqrf.o \
-	dpvx8.o
->>>>>>> 94728118362ee28eca61e7afddf646e6b548384e
+	dpvx8.o \
 
 	$(CC) -o story $^
 
@@ -213,19 +211,15 @@ xltz6.o: sentences/xltz6.c
 zzff8.o: sentences/zzff8.c
 	$(CC) -c $<
 ps793.o: sentences/ps793.c
-	$(CC) -c $<
-<<<<<<< HEAD
+	$(CC) -c $<	
 #makgkf.o: sentences/makgkf.c
 #	$(CC) -c $<
-=======
->>>>>>> 94728118362ee28eca61e7afddf646e6b548384e
 tps9tb.o: sentences/tps9tb.c
 	$(CC) -c $<
 ifh2k6.o: sentences/ifh2k6.c
 	$(CC) -c $<
-<<<<<<< HEAD
 aapcnc.o: sentences/aapcnc.c
-=======
+	$(CC) -c $<
 baotm4.o: sentences/baotm4.c
 	$(CC) -c $<
 sts44b.o: sentences/sts44b.c
@@ -279,7 +273,7 @@ rmixv8.o: sentences/rmixv8.c
 	$(CC) -c $<
 makgkf.o: sentences/makgkf.c
 	$(CC) -c $<
-
+zarq6c.o: sentences/zarq6c.c
+	$(CC) -c $<
 dpvx8.o: sentences/dpvx8.c
->>>>>>> 94728118362ee28eca61e7afddf646e6b548384e
 	$(CC) -c $<
