@@ -152,6 +152,9 @@ int main( void )
     mlm6f4_s1();
     mlm6f4_s2();
 
+	mcs526_sentence1();
+	mcs526_sentence2();
+
 // DO NOT ADD AFTER THIS COMMENT
 	// Bens sentence should be last.
 	bensSentence_FINAL();

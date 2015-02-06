@@ -152,3 +152,6 @@ int arhyr8Sentence2();
 
 int mlm6f4_s1();
 int mlm6f4_s2();
+
+int mcs526_sentence1();
+int mcs526_sentence2();
