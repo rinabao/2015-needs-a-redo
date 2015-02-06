@@ -25,7 +25,8 @@ void jpvc4_sentence2();
 
 int jn9qc_s1();
 int jn9qc_s2();
-
+int rbync_first();
+int rbync_second();
 int acfr47_Sentence1();
 int acfr47_Sentence2();
 

@@ -16,6 +16,8 @@ int main( void )
 	scottgsSentence1();
 	iphvg5_sentence1();
 	rcsc77First();
+	rbync_first();
+	rbync_second();
 	xdb57_1();
 	tehww4_s1();
 	tehww4_s2();

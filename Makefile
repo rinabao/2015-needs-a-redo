@@ -61,6 +61,7 @@ story: story.o \
 	tehww4.o \
 	jpvc4.o \
 	blhtkd.o \
+	rbync.o \
 	wfbc77.o \
 	bjt2p3.o \
 	amd2b7.o \
@@ -159,6 +160,8 @@ blhtkd.o: sentences/blhtkd.c
 	$(CC) -c $<
 
 wfbc77.o: sentences/wfbc77.c
+	$(CC) -c $<
+rbync.o: sentences/rbync.c
 	$(CC) -c $<
 bjt2p3.o: sentences/bjt2p3.c
 	$(CC) -c $<
