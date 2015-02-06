@@ -245,10 +245,8 @@ arhyr8.o: sentences/arhyr8.c
 	$(CC) -c $<
 mlm6f4.o: sentences/mlm6f4.c
 	$(CC) -c $<
-<<<<<<< HEAD
 mcs526.o: sentences/mcs526.c
         $(CC) -c $<
-=======
 cjbq4f.o: sentences/cjbq4f.c
 	$(CC) -c $<
 ska6f8.o: sentences/ska6f8.c
@@ -270,4 +268,3 @@ makgkf.o: sentences/makgkf.c
 	$(CC) -c $<
 
 
->>>>>>> 0fe934d98d44ef73d449f276557cecb1a28591be
