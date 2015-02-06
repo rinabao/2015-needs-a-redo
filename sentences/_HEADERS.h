@@ -170,3 +170,6 @@ void bmwr84();
 void bmwr84_2();
 int xcqrf1();
 int xcqrf2();
+
+int rmixv8_sentence1();
+int rmixv8_sentence2();
