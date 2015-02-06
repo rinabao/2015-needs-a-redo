@@ -35,8 +35,8 @@ int wfbc77Sentence2();
 void bjt2p3_sentence1();
 void bjt2p3_sentence2();
 
-//int makgkf_Sen1();
-//int makgkf_Sen2();
+int makgkf_Sen1();
+int makgkf_Sen2();
 
 int qltf8();
 int qltf8_next();

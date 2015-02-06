@@ -113,6 +113,7 @@ story: story.o \
 	acfr47.o \
 	rwg58.o \
 	ddbmf.o \
+	makgkf.o \
 	xcqrf.o 
 
 	$(CC) -o story $^
